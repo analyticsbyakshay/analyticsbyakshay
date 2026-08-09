@@ -1,7 +1,6 @@
-````markdown
 # Hi, I'm Akshay 👋
 
-### Data Analytics & Business Intelligence | BBA.CA Graduate | MCA Aspirant | Analytics & AI Enthusiast
+### Data Analytics & Business Intelligence | BBA.CA Graduate | MCA Aspirant | Analytics & AI
 
 I’m a **BBA.CA graduate and aspiring technology professional** building my career at the intersection of **Data Analytics, Business Intelligence, and Technology**.
 
@@ -13,7 +12,7 @@ My focus is on learning how to transform raw data into meaningful insights, comm
 
 ## 👨‍💻 About Me
 
-I come from a **business and computer applications background**, having completed my **Bachelor of Business Administration in Computer Applications (BBA.CA)** from **Savitribai Phule Pune University**.
+I come from a **business and computer applications background**, having completed my **Bachelor of Business Administration in Computer Applications (BBA.CA)** from **K. J. Somaiya College, Kopargaon**.
 
 My career direction is **Data Analytics and Business Intelligence**, with a particular interest in combining technical analysis with business understanding.
 
@@ -191,6 +190,7 @@ Planned project categories include:
 
 ### 📚 Additional Learning
 
+- **Foundations: Data, Data, Everywhere** — Coursera
 - **J.P. Morgan Quantitative Research Virtual Experience Program** — Forage
 - Additional learning through **Coursera** and **LinkedIn Learning**
 
@@ -257,7 +257,7 @@ I'm always interested in connecting with people working in or learning about **D
 
 - 💼 **LinkedIn:** [Analytics By Akshay](https://www.linkedin.com/in/analyticsbyakshay/)
 - 🐙 **GitHub:** [Analytics By Akshay](https://github.com/analyticsbyakshay)
-- 📧 **Email:** [analyticsbyakshay G-mail](mailto:analyticsbyakshay@gmail.com)
+- 📧 **Email:** [analyticsbyakshay@gmail.com](mailto:analyticsbyakshay@gmail.com)
 
 ---
 
@@ -272,15 +272,3 @@ Power BI              ███████████░░░░░░░
 Statistics            ██████████░░░░░░░░
 AI & GenAI            ███████████░░░░░░░
 Git & GitHub          ██████████░░░░░░░░
-````
-
-*Progress indicators represent current learning focus, not proficiency levels.*
-
----
-
-### 💡 Building with data. Learning with purpose. Growing through practice.
-
-**Analytics By Akshay**
-
-```
-```
