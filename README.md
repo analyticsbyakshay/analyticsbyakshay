@@ -12,7 +12,7 @@ I am interested in transforming data into meaningful insights, understanding bus
 
 ## 👨‍💻 About Me
 
-I have a background in **Business Administration and Computer Applications**, having completed my **BBA.CA from K. J. Somaiya College, Kopargaon**.
+I have a background in **Business Administration and Computer Applications**, having completed my **BBA.CA from Savitribai Phule Pune University**.
 
 My career goal is to become a **Data Analyst / Business Intelligence professional** who can combine business understanding with technical and analytical skills.
 
