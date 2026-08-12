@@ -64,29 +64,27 @@ I am currently preparing for my **Master of Computer Applications (MCA)** while 
 
 ### 🤖 AI & Modern Analytics
 
-![AI](https://img.shields.io/badge/AI-Assisted%20Analytics-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Focus:** Generative AI • Prompt Engineering • AI-assisted Analytics • Analytics Automation
+**AI-assisted Analytics • Generative AI • Prompt Engineering • Analytics Automation**
 
 ---
 
 ## 🏆 Credentials & Badges
 
 <p align="center">
-
-![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certificate-EA4335?style=for-the-badge&logo=google&logoColor=white)
-
-![Google AI Professional](https://img.shields.io/badge/Google%20AI%20Professional-Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-Certificate-34A853?style=for-the-badge&logo=google&logoColor=white)
-
+  <img src="./assets/google-data-analytics.png" alt="Google Data Analytics Certificate" width="180">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/google-ai-professional.png" alt="Google AI Professional Certificate" width="180">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/google-ai-essentials.png" alt="Google AI Essentials Certificate" width="180">
 </p>
 
-**Earned credentials:**
-
-- 🟥 **Google Data Analytics Certificate**
-- 🟦 **Google AI Professional Certificate**
-- 🟩 **Google AI Essentials**
+<p align="center">
+  <b>Google Data Analytics</b>
+  &nbsp;•&nbsp;
+  <b>Google AI Professional</b>
+  &nbsp;•&nbsp;
+  <b>Google AI Essentials</b>
+</p>
 
 ---
 
@@ -130,6 +128,7 @@ while continuously strengthening my understanding of **business and technology**
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn:** [Analytics By Akshay](https://www.linkedin.com/in/analyticsbyakshay/)
+- 🐙 **GitHub:** [Analytics By Akshay](https://github.com/analyticsbyakshay)
 - 📧 **Email:** [analyticsbyakshay@gmail.com](mailto:analyticsbyakshay@gmail.com)
 
 ---
@@ -137,3 +136,4 @@ while continuously strengthening my understanding of **business and technology**
 ### 💡 Building with data. Learning with purpose.
 
 **Analytics By Akshay**
+```
