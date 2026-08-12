@@ -1,10 +1,10 @@
-# Hi, I'm Akshay Somase 👋
+# Hi, I'm Akshay 👋
 
-### Data Analytics & Business Intelligence | BBA.CA Graduate | MCA Aspirant | Analytics & AI
+### Data Analytics & Business Intelligence | Modern Analytics | AI
 
 I’m a **BBA.CA graduate** building my career in **Data Analytics, Business Intelligence, and Modern Analytics**.
 
-I am interested in transforming data into meaningful insights, understanding business problems, and supporting **data-driven decision-making** through analytical thinking and technology.
+I am interested in transforming raw data into meaningful insights, understanding business problems, and supporting **data-driven decision-making** through analytical thinking and technology.
 
 > **Learning → Building → Sharing → Growing**
 
@@ -12,9 +12,9 @@ I am interested in transforming data into meaningful insights, understanding bus
 
 ## 👨‍💻 About Me
 
-I have a background in **Business Administration and Computer Applications**, having completed my **BBA.CA from Savitribai Phule Pune University**.
+I have a background in **Business Administration and Computer Applications**, with a strong interest in combining **business understanding, data, and technology**.
 
-My career goal is to become a **Data Analyst / Business Intelligence professional** who can combine business understanding with technical and analytical skills.
+My career goal is to build a professional career in **Data Analytics and Business Intelligence**, where I can analyze data, identify patterns, communicate insights, and support better business decisions.
 
 I am currently preparing for my **Master of Computer Applications (MCA)** while developing practical skills in:
 
@@ -36,7 +36,7 @@ I am currently preparing for my **Master of Computer Applications (MCA)** while 
 - Python for Data Analysis
 - Pandas & NumPy
 - Statistics for Data Analysis
-- Data Cleaning & EDA
+- Data Cleaning & Exploratory Data Analysis
 - Power BI & Dashboard Development
 - Business Analytics
 - Data Visualization
@@ -46,7 +46,7 @@ I am currently preparing for my **Master of Computer Applications (MCA)** while 
 
 ## 🛠️ Data Analytics Skills
 
-### 📊 Core Analytics
+### 📊 Data Analysis
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -56,15 +56,37 @@ I am currently preparing for my **Master of Computer Applications (MCA)** while 
 
 **Focus:** Data Cleaning • EDA • Statistics • Data Analysis
 
-### 📈 Business Intelligence & Visualization
+### 📈 Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Focus:** Dashboards • KPIs • Business Analysis • Data Visualization • Data Storytelling
+**Focus:** Business Analytics • Dashboard Development • KPIs • Data Visualization • Data Storytelling
 
 ### 🤖 AI & Modern Analytics
 
-**AI-assisted Analytics • Generative AI • Prompt Engineering • Analytics Automation**
+![AI](https://img.shields.io/badge/AI-Assisted%20Analytics-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Focus:** Generative AI • Prompt Engineering • AI-assisted Analytics • Analytics Automation
+
+---
+
+## 🏆 Credentials & Badges
+
+<p align="center">
+
+![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certificate-EA4335?style=for-the-badge&logo=google&logoColor=white)
+
+![Google AI Professional](https://img.shields.io/badge/Google%20AI%20Professional-Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-Certificate-34A853?style=for-the-badge&logo=google&logoColor=white)
+
+</p>
+
+**Earned credentials:**
+
+- 🟥 **Google Data Analytics Certificate**
+- 🟦 **Google AI Professional Certificate**
+- 🟩 **Google AI Essentials**
 
 ---
 
@@ -108,8 +130,7 @@ while continuously strengthening my understanding of **business and technology**
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn:** [Analytics By Akshay](https://www.linkedin.com/in/analyticsbyakshay/)
-- 🐙 **GitHub:** [Analytics By Akshay](https://github.com/analyticsbyakshay)
-- 📧 **Email:** [analyticsbyakshay](mailto:analyticsbyakshay@gmail.com)
+- 📧 **Email:** [analyticsbyakshay@gmail.com](mailto:analyticsbyakshay@gmail.com)
 
 ---
 
